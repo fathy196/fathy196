@@ -24,13 +24,6 @@ Continuously learning and improving through hands-on development and real-world 
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Fathy196&theme=radical&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fathy196&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fathy196&theme=radical&layout=compact)
-
----
-
 ## 🏆 GitHub Trophies  
 ![](https://github-trophies.vercel.app/?username=Fathy196&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 

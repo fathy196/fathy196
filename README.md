@@ -41,4 +41,10 @@ Continuously learning and improving through hands-on development and real-world 
 
 ---
 
-[![Visitor Count](https://profile-counter.glitch.me/Fathy196/count.svg)](https://github.com/Fathy196)
+
+<div align="center">
+  
+### 🚀 Visitors Counter  
+[![Visitor Count](https://profile-counter.glitch.me/Fathy196/count.svg)](https://github.com/Fathy196)  
+
+</div>

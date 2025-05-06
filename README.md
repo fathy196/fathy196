@@ -48,4 +48,4 @@ Continuously learning and improving through hands-on development and real-world 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Fathy196&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://profile-counter.glitch.me/Fathy196/count.svg)](https://github.com/Fathy196)

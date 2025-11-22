@@ -34,15 +34,5 @@ Continuously learning and improving through hands-on development and real-world 
 
 ---
 
-
-<div align="center">
-  
-### 🚀 Visitors Counter  
-[![Visitor Count](https://profile-counter.glitch.me/Fathy196/count.svg)](https://github.com/Fathy196)  
-
-</div>
-
----
-
 ## 📬 Connect with Me    
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fathyabdelkader8@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathy-abdelkader-4a47b1224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201064274581)
